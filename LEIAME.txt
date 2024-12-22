@@ -1,0 +1,6 @@
+Este módulo permite o envio automático de notificações via WhatsApp para eventos relacionados a faturas no WHMCS, como criação, lembrete de pagamento, pagamento efetuado e cancelamento. As mensagens são personalizadas e enviadas através da API Zapcel.
+
+Por R$30,00/mês tenha acesso a API:
+https://www.hostcel.com.br/cobranca-pelo-whatsapp-e-chatbot/
+
+Copie a pasta "\zapcel" para dentro de "whmcs\modules\addons"
