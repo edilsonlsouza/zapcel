@@ -18,8 +18,8 @@ Permite enviar notificações automáticas via WhatsApp para eventos de faturas 
 3. Configure e teste a API da Zapcel.
 
 ## **Dependências**
-- **API da Zapcel**: Deve aceitar requisições do seu WHMCS.
-- **API Key**: Configure a chave da API (apikey) no código.
+- **Token de Acesso**: Token único gerado durante o cadastro no Zapcel.
+- **ID da Instância**: ID gerado ao ler o QR Code no Zapcel.
 
 ## **Personalização**
 - Ajuste mensagens e adicione eventos nas funções `enviarMensagemWhatsApp` e `enviarMensagemPix`.
@@ -51,10 +51,10 @@ Permite enviar notificações automáticas via WhatsApp para eventos de faturas 
 Módulo open source. Uso, modificação e distribuição permitidos.
 
 ## GitHub
-[GitHub Oficial](https://github.com/ianchamba/whatsapp-whmcs)
-[Ian Chamba](https://github.com/ianchamba)  
-[OpenPix](https://openpix.com.br/)
-[API da Zapcel](https://documenter.getpostman.com/view/16327062/2s93Jut3CQ)
+- [GitHub Oficial](https://github.com/ianchamba/whatsapp-whmcs)
+- [Ian Chamba](https://github.com/ianchamba)  
+- [OpenPix](https://openpix.com.br/)
+- [API da Zapcel](https://documenter.getpostman.com/view/16327062/2s93Jut3CQ)
 
 ### *All rights reserved to their respective authors*
 
