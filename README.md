@@ -18,8 +18,10 @@ Permite enviar notificações automáticas via WhatsApp para eventos de faturas 
 3. Configure e teste a API da Zapcel.
 
 ## **Dependências**
+- **API Zapcel**: [Painel Zapcel](https://zap.hostcel.com.br/login)
 - **Token de Acesso**: Token único gerado durante o cadastro no Zapcel.
 - **ID da Instância**: ID gerado ao ler o QR Code no Zapcel.
+
 
 ## **Personalização**
 - Ajuste mensagens e adicione eventos nas funções `enviarMensagemWhatsApp` e `enviarMensagemPix`.
